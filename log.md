@@ -13,3 +13,12 @@ I've been working on the FreeCodeCamp curriculum since I caught wind of this cha
 **Link(s) to work**
 1. [Manipulating Complext Objects](https://www.freecodecamp.com/challenges/manipulating-complex-objects)
 2. [Nesting For Loops](https://www.freecodecamp.com/challenges/nesting-for-loops)
+
+### Day 2: 6-Jan-2017 (0900 - 1020 1200-1215 CST)
+
+**Today's Progress**: FreeCodeCamp Basic JavaScript Exercises. Finished: Profile Lookup and the rest of the Basic JavaScript Exercises
+
+**Thoughts** You ever run in to a wall? That's what I did on the FreeCodeCamp Profile Lookup exercise, which I tried to tackle for a bit yesterday evening, and finally finished today. I knew logically how it needed to happen, but I could not translate the logic in my brain to logic that JavaScript would understand. I went on the [JavaScript Help](https://gitter.im/FreeCodeCamp/HelpJavaScript) gitter last night and got some help from @revisualize, but I couldn't make the final connection before I went to sleep last night. This morning, I tried several tacts (while loops, lookup array) and couldn't get it to work. On the JavaScript Help Gitter, someone has having the same problem that I was and I read through that persons code and their correspondence with another user and was able to find where I went astray, and where they went astray and was able to fix those two errors to complete my code. My thanks to them, unfortunately, I do not remember their user names, or I would mention them.
+
+**Link(s) to work**
+1. [Profile Lookup](https://www.freecodecamp.com/challenges/profile-lookup)
