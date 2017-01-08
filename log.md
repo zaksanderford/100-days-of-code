@@ -31,8 +31,11 @@ I've been working on the FreeCodeCamp curriculum since I caught wind of this cha
 
 At any rate, I have been reading Eloquent JavaScript, and dove into the Chapter 2 programs this evening to keep current on program flows. The chapter 2 programs involved outputting [octothorpes](https://www.merriam-webster.com/dictionary/octothorpe) in a right triangle as follows
 \#
+
 \#\#
+
 \#\#\#
+
 \#\#\#\#
 etc.
 
