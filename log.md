@@ -30,6 +30,7 @@ I've been working on the FreeCodeCamp curriculum since I caught wind of this cha
 **Thoughts** Not a lot today. I was trying to make some repairs to my laptop, which went well until I tried to put it back together the 2nd time and the power button's connection on the main board came lose from its mainboard mount, so now I have to see if it is more cost effective to replace the mainboard or see if someone can do some surface mount soldering on that issue.
 
 At any rate, I have been reading Eloquent JavaScript, and dove into the Chapter 2 programs this evening to keep current on program flows. The chapter 2 programs involved outputting [octothorpes](https://www.merriam-webster.com/dictionary/octothorpe) in a right triangle as follows
+
 \#
 
 \#\#
