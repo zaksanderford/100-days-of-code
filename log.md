@@ -47,7 +47,7 @@ The last program in chapter 2 was the chessboard problem wher you programaticall
 Lastly, so far, I can highly recommend Eloquent JavaScript. It is written in a very human approachable way which will appeal to more people. Marijn Haverbeke's prose is easy to follow in the book and entertaining to read, unlike a technical reference manual (which I also like). Also the solution code provided truly lives up to its eloquent namesake.
 
 **Link(s) to works and references**
-1. [Eloquent JavaScirpt Code Sandbox](https://www.freecodecamp.com/challenges/profile-lookup)
+1. [Eloquent JavaScirpt Code Sandbox](http://eloquentjavascript.net/code)
 2. [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 
@@ -59,3 +59,22 @@ Lastly, so far, I can highly recommend Eloquent JavaScript. It is written in a v
 
 **Link(s) to work and references**
 1. [FreeCodeCamp Map](https://www.freecodecamp.com/map)
+
+### Day 5: 9-Jan-2017 (0945 - 1145 CST)
+
+**Today's Progress**: Eloquent JavaScript Chapter 3 Exercises and Free Code Camp Basic Algorithms: Factiorilze a Number, Check for Palindromes and Find the Longest Word in a String.
+
+**Thoughts** Last night as part of a little light reading before bed, I read Chapter 3 in Eloquent JavaScript about Functions and this morning I worked through the exercises. It is interesting to write code that you would never write for a program. In this case the Recursion exercise wanted you to write a function that calls itself to determine whether or not a number is even. It took me a while figure out to make this a recursive function because I really wanted to write it non-recursively as it makes more sense in that context.
+
+With the Free Code Camp Basic Algorithm exercises today, I had to remember that simple is usually better, and actually seing EJS' author's code samples thus far has helped me do that. Sometimes iteration doesn't need to happen and if you can understand string and array methods in JavaScript some of these Basic Algorithms can be solved in as few as one line.
+
+Contestant A: "I can solve this problem in 2 lines"
+
+Contestant B: "I can solve this problem in 1 line"
+
+If you get the above reference, we will probably be fast friends.
+
+**Link(s) to work and references**
+1. [FreeCodeCamp Camper Page](https://www.freecodecamp.com/zaksanderford)
+2. [Eloquent JavaScirpt Code Sandbox](http://eloquentjavascript.net/code)
+3. [Eloquent JavaScript](http://eloquentjavascript.net/)
