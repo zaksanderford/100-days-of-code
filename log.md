@@ -49,3 +49,13 @@ Lastly, so far, I can highly recommend Eloquent JavaScript. It is written in a v
 **Link(s) to works and references**
 1. [Eloquent JavaScirpt Code Sandbox](https://www.freecodecamp.com/challenges/profile-lookup)
 2. [Eloquent JavaScript](http://eloquentjavascript.net/)
+
+
+### Day 4: 8-Jan-2017 (2000 - 2100 CST)
+
+**Today's Progress**: FreeCodeCamp Completed: Object Oriented and Functiona Programming, Started: Basic Algorithm Scripting
+
+**Thoughts** Today I started and completed the OO and Functional Programming and tackled the first two problems in Basic Algorithm Scripting. I clearly need to increase my understanding of data objects in JavaScript as the OO and Functional program featured those heavily and some of the ideas are only clear as mud right now. I do look forward to putting together what I do know into the Basic Algorithm Exercises.
+
+**Link(s) to work and references**
+1. [FreeCodeCamp Map](https://www.freecodecamp.com/map)
