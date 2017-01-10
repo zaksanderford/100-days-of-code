@@ -79,7 +79,7 @@ If you get the above reference, we will probably be fast friends.
 2. [Eloquent JavaScirpt Code Sandbox](http://eloquentjavascript.net/code)
 3. [Eloquent JavaScript](http://eloquentjavascript.net/)
 
-### Day 5: 10-Jan-2017 (1000 - 1315 CST)
+### Day 6: 10-Jan-2017 (1000 - 1315 CST)
 
 **Today's Progress**: Started and Complete FreeCodeCamp's Title Case a Sentence Exercise
 
