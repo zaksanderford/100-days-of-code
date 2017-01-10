@@ -78,3 +78,14 @@ If you get the above reference, we will probably be fast friends.
 1. [FreeCodeCamp Camper Page](https://www.freecodecamp.com/zaksanderford)
 2. [Eloquent JavaScirpt Code Sandbox](http://eloquentjavascript.net/code)
 3. [Eloquent JavaScript](http://eloquentjavascript.net/)
+
+### Day 5: 10-Jan-2017 (1000 - 1315 CST)
+
+**Today's Progress**: Started and Complete FreeCodeCamp's Title Case a Sentence Exercise
+
+**Thoughts** This has been the toughest exercise to date, but I completed it, and that's what we're after right. After many calls to ```console.log()``` to see what was working how in what I had coded, I was able to make more educated guesses as to what my program needed to do in order to complete the task at hand and eventually. At the start of my working solution I had about 7 - 8 lines of code inside a for loop and I was able to pare that down to 3 lines within the loop, plus some variable declaration and string parsing outside of the loop. I'm sure there is probably a better way of doing this, but I'm quite proud of this solution. If you have not used w3schools JavaScript Array and String reference pages, I highly recommend them as a way to see all the built-in functions that can be accessed to work with arrays and strings.
+
+**Link(s) to work and references**
+1. [FreeCodeCamp Camper Page](https://www.freecodecamp.com/zaksanderford)
+2. [w3schools JavaScript Array Reference](http://www.w3schools.com/jsref/jsref_obj_array.asp)
+3. [w3schools JavaScript String Reference](http://www.w3schools.com/jsref/jsref_obj_string.asp)
