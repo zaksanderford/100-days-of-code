@@ -89,3 +89,14 @@ If you get the above reference, we will probably be fast friends.
 1. [FreeCodeCamp Camper Page](https://www.freecodecamp.com/zaksanderford)
 2. [w3schools JavaScript Array Reference](http://www.w3schools.com/jsref/jsref_obj_array.asp)
 3. [w3schools JavaScript String Reference](http://www.w3schools.com/jsref/jsref_obj_string.asp)
+
+### Day 7: 11-Jan-2017 (1000 - 1130 CST)
+
+**Today's Progress**: Completed: Confirm the Ending, Repeat a string repeat a string and Truncate a string
+
+**Thoughts** Today went really well, I was able to complete three exercises in less time than it took me to complete one yesterday. That's the great thing about cumulative learning, once you figure out something difficult you can carry that knowledge forward with you and apply it to future problems. 
+
+**Link(s) to work and references**
+1. [FreeCodeCamp Camper Page](https://www.freecodecamp.com/zaksanderford)
+2. [w3schools JavaScript Array Reference](http://www.w3schools.com/jsref/jsref_obj_array.asp)
+3. [w3schools JavaScript String Reference](http://www.w3schools.com/jsref/jsref_obj_string.asp)
