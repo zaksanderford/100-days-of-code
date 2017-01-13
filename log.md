@@ -100,3 +100,14 @@ If you get the above reference, we will probably be fast friends.
 1. [FreeCodeCamp Camper Page](https://www.freecodecamp.com/zaksanderford)
 2. [w3schools JavaScript Array Reference](http://www.w3schools.com/jsref/jsref_obj_array.asp)
 3. [w3schools JavaScript String Reference](http://www.w3schools.com/jsref/jsref_obj_string.asp)
+
+### Day 8: 12-Jan-2017 (1000 - 1230, 1830 - 2030 CST)
+
+**Today's Progress**: Completed: Chunky Monkey, Slasher Flick and Mutations
+
+**Thoughts** Today was a mixed bag. I breezed through one exercise, struggled a little on another exercise, and struggled massively on another but not necessarily in that order. The *Chunky Monkey* exercise took me a little doing trying to get my iteration right. I originally tried to iterate on a value that was changing with every iteration, which produced some wonky (the technical term) results. The *Slasher Flick* took very little time, and occured quite on accident. I had to console log the results to see what was happening. Then *Mutations* happened. And it kept happening, and everytime I changed something, I'd get different results. At one point I met all the tests thrown at it, except the first one. I'd change ***one tiny little thing*** and everything except the first one would fail. It took me a while to wrap my head on the understanding of the ```string.indexOf()``` method. Once I wrapped my skull around that, things kept falling into place bit-by-bit, but it still took a ~~little~~ a lot of doing to get the desired result. I left all my console.log statements active so I can re-run the script and see what is going in to remember how things work with some of the more arcane string methods. 
+
+**Link(s) to work and references**
+1. [FreeCodeCamp Camper Page](https://www.freecodecamp.com/zaksanderford)
+2. [w3schools JavaScript Array Reference](http://www.w3schools.com/jsref/jsref_obj_array.asp)
+3. [w3schools JavaScript String Reference](http://www.w3schools.com/jsref/jsref_obj_string.asp)
