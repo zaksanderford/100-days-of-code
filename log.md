@@ -11,7 +11,7 @@ I've been working on the FreeCodeCamp curriculum since I caught wind of this cha
 **Thoughts** I've come back to coding after a break. Some of the stuff is as fresh as they day I learned it, other things not so much. I got hung up on the Manipulating Complex Objects Exercise because *commas* separate *everything* in an object. Additionally, remembering how nesting loops work hung me up for a while on the Nesting For Loops exercise where the end goal was to get a product based on all the array elements, in multiple arrays. I will hopefully come back later today and work on the mini-project section [Profile Lookup](https://www.freecodecamp.com/challenges/profile-lookup) to close up the objects and loops portion of the Basic JavaScript Exercises.
 
 **Link(s) to work**
-1. [Manipulating Complext Objects](https://www.freecodecamp.com/challenges/manipulating-complex-objects)
+1. [Manipulating Complex Objects](https://www.freecodecamp.com/challenges/manipulating-complex-objects)
 2. [Nesting For Loops](https://www.freecodecamp.com/challenges/nesting-for-loops)
 
 ### Day 2: 6-Jan-2017 (0900 - 1020 1200-1215 CST)
@@ -106,6 +106,17 @@ If you get the above reference, we will probably be fast friends.
 **Today's Progress**: Completed: Chunky Monkey, Slasher Flick and Mutations
 
 **Thoughts** Today was a mixed bag. I breezed through one exercise, struggled a little on another exercise, and struggled massively on another but not necessarily in that order. The *Chunky Monkey* exercise took me a little doing trying to get my iteration right. I originally tried to iterate on a value that was changing with every iteration, which produced some wonky (the technical term) results. The *Slasher Flick* took very little time, and occured quite on accident. I had to console log the results to see what was happening. Then *Mutations* happened. And it kept happening, and everytime I changed something, I'd get different results. At one point I met all the tests thrown at it, except the first one. I'd change ***one tiny little thing*** and everything except the first one would fail. It took me a while to wrap my head on the understanding of the ```string.indexOf()``` method. Once I wrapped my skull around that, things kept falling into place bit-by-bit, but it still took a ~~little~~ a lot of doing to get the desired result. I left all my console.log statements active so I can re-run the script and see what is going in to remember how things work with some of the more arcane string methods. 
+
+**Link(s) to work and references**
+1. [FreeCodeCamp Camper Page](https://www.freecodecamp.com/zaksanderford)
+2. [w3schools JavaScript Array Reference](http://www.w3schools.com/jsref/jsref_obj_array.asp)
+3. [w3schools JavaScript String Reference](http://www.w3schools.com/jsref/jsref_obj_string.asp)
+
+### Day 9: 13-Jan-2017 (1830 - 1930 CST)
+
+**Today's Progress**: Completed: Falsy Bouncer
+
+**Thoughts** It was a long day at work today. I usually work a split shift, but today was straight through with a field trip to San Antonio, but I was able to succesfully complete an algorithm exercise, so I'll call that a success.
 
 **Link(s) to work and references**
 1. [FreeCodeCamp Camper Page](https://www.freecodecamp.com/zaksanderford)
