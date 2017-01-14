@@ -122,3 +122,12 @@ If you get the above reference, we will probably be fast friends.
 1. [FreeCodeCamp Camper Page](https://www.freecodecamp.com/zaksanderford)
 2. [w3schools JavaScript Array Reference](http://www.w3schools.com/jsref/jsref_obj_array.asp)
 3. [w3schools JavaScript String Reference](http://www.w3schools.com/jsref/jsref_obj_string.asp)
+
+### Day 10: 14-Jan-2017 (0830 - 0945 CST)
+
+**Today's Progress**: Completed: Caesers Cipher and the FreeCodeCamp Basic Algorithm Scripting Exercises
+
+**Thoughts** Today I completed Caesers Cipher exercise and also closed out the Basic Algorithm Scripting section of FreeCodeCamp. Next I will move forward through the JSON APIs and AJAX lessons and Intermediate Front End Projects. Yesterday, I also found out that a division of a company that I worked for in a different capacity in the past would like to do some remote data management work for them as the bring new systems online, so I am excited for that opportunity.
+
+**Link(s) to work and references**
+1. [FreeCodeCamp Camper Page](https://www.freecodecamp.com/zaksanderford)
