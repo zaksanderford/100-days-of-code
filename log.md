@@ -131,3 +131,14 @@ If you get the above reference, we will probably be fast friends.
 
 **Link(s) to work and references**
 1. [FreeCodeCamp Camper Page](https://www.freecodecamp.com/zaksanderford)
+
+### Day 10: 14-Jan-2017 (0830 - 0945 CST)
+
+**Today's Progress**: Random Quote Machine Functionally Complete
+
+**Thoughts** I actually spent a good bit of yesterday working on the FreeCodeCamp Random Quote Machine and got to the point where the quotes were being correctly served from an API and laid out the skeleton for the Tweet button. When I called it a day yesterday, I had my tweet button logging to the console so that I knew that it had basic functionality.
+
+Today I was able to finish the tweet button with appropriate functionality. Now I need to do a little styling work, which for me is difficult, because I don't have much of an eye for style.
+
+**Link(s) to work and references**
+1. [Random Quote Machine](https://codepen.io/zsanderford/full/KaMOyQ/)
