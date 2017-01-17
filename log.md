@@ -132,7 +132,7 @@ If you get the above reference, we will probably be fast friends.
 **Link(s) to work and references**
 1. [FreeCodeCamp Camper Page](https://www.freecodecamp.com/zaksanderford)
 
-### Day 10: 14-Jan-2017 (0830 - 0945 CST)
+### Day 11: 15-Jan-2017 (0830 - 0945 CST)
 
 **Today's Progress**: Random Quote Machine Functionally Complete
 
@@ -142,3 +142,15 @@ Today I was able to finish the tweet button with appropriate functionality. Now 
 
 **Link(s) to work and references**
 1. [Random Quote Machine](https://codepen.io/zsanderford/full/KaMOyQ/)
+
+
+### Day 12: 16-Jan-2017 (1945 - 2100 CST)
+
+**Today's Progress**: [jQuery Tutorial](https://try.jquery.com) Sections 1 - 3
+
+**Thoughts** Today, I took a little detour and used (jQuery.com's)[https://jquery.com/] tutorial to familiarize myself a little more with some of the basics of jQuery. It has thus far been helpful with the basics of jQuery interacts with the document object model, and provides a little more depth of explanation than the FreeCodeCamp curriculum did on this subject. 
+
+I am looking for something that covers how to make calls to API's, and since I am primarily using JavaScript with jQuery at this point something that deciphers the syntax of those calls.
+
+**Link(s) to work and references**
+1. [jQuery Tutorial](https://try.jquery.com)
