@@ -154,3 +154,15 @@ I am looking for something that covers how to make calls to API's, and since I a
 
 **Link(s) to work and references**
 1. [jQuery Tutorial](https://try.jquery.com)
+
+### Day 12: 16-Jan-2017 (1945 - 2100 CST)
+
+**Today's Progress**: [jQuery Tutorial](https://try.jquery.com) Sections 4 - 5, FreeCodeCamp Local Weather App
+
+**Thoughts** Today, I made my FreeCodeCamp Local Weather App functionally (user story) complete. I used [Ipinfo.io](https://ipinfo.io) for location information to overcome some issues; however, it does have some wonky behavior if you're using mobile data. For example, on my computer, ipinfo gets my location right (Canyon Lake, TX), but if I fire this pen up on my phone, it says I'm in Dallas, Texarkana or just Texas.
+
+Additionally, I finished the portion of the Code School on jQuery that is linked from [jQuery.com](https://try.jquery.com) website. It provided some good challenges and useful information, but now I want to know more, especially the minutae of AJAX.
+
+**Link(s) to work and references**
+1. [jQuery Tutorial](https://try.jquery.com)
+2. [Your Local Weather](https://codepen.io/zsanderford/full/MJbova/)
