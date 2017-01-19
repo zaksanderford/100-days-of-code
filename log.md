@@ -155,7 +155,7 @@ I am looking for something that covers how to make calls to API's, and since I a
 **Link(s) to work and references**
 1. [jQuery Tutorial](https://try.jquery.com)
 
-### Day 12: 16-Jan-2017 (1945 - 2100 CST)
+### Day 13: 17-Jan-2017
 
 **Today's Progress**: [jQuery Tutorial](https://try.jquery.com) Sections 4 - 5, FreeCodeCamp Local Weather App
 
@@ -166,3 +166,11 @@ Additionally, I finished the portion of the Code School on jQuery that is linked
 **Link(s) to work and references**
 1. [jQuery Tutorial](https://try.jquery.com)
 2. [Your Local Weather](https://codepen.io/zsanderford/full/MJbova/)
+
+### Day 14: 18-Jan-2017
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work and references**
