@@ -157,9 +157,18 @@ I am looking for something that covers how to make calls to API's, and since I a
 
 ### Day 13: 17-Jan-2017
 
+**Today's Progress**: Start FreeCodeCamp Local Weather App
+
+**Thoughts** Today I started the FreeCodeCamp Local Weather App and got as far as getting the geolocation and started reading in how to make the API call.
+
+**Link(s) to work and references**
+1. [Your Local Weather]([Your Local Weather](https://codepen.io/zsanderford/full/MJbova/)
+
+### Day 14: 18-Jan-2017
+
 **Today's Progress**: [jQuery Tutorial](https://try.jquery.com) Sections 4 - 5, FreeCodeCamp Local Weather App
 
-**Thoughts** Today, I made my FreeCodeCamp Local Weather App functionally (user story) complete. I used [Ipinfo.io](https://ipinfo.io) for location information to overcome some issues; however, it does have some wonky behavior if you're using mobile data. For example, on my computer, ipinfo gets my location right (Canyon Lake, TX), but if I fire this pen up on my phone, it says I'm in Dallas, Texarkana or just Texas.
+**Thoughts** Today, I made my FreeCodeCamp Local Weather App functionally (user story) complete. I used [ipinfo.io](https://ipinfo.io) for location information to overcome some issues; however, it does have some wonky behavior if you're using mobile data. For example, on my computer, ipinfo gets my location right (Canyon Lake, TX), but if I fire this pen up on my phone, it says I'm in Dallas, Texarkana or just Texas.
 
 Additionally, I finished the portion of the Code School on jQuery that is linked from [jQuery.com](https://try.jquery.com) website. It provided some good challenges and useful information, but now I want to know more, especially the minutae of AJAX.
 
@@ -167,10 +176,14 @@ Additionally, I finished the portion of the Code School on jQuery that is linked
 1. [jQuery Tutorial](https://try.jquery.com)
 2. [Your Local Weather](https://codepen.io/zsanderford/full/MJbova/)
 
-### Day 14: 18-Jan-2017
+### Day 15: 19-Jan-2017
 
-**Today's Progress**: 
+**Today's Progress**: Polished Local Weather App, Started FreeCodeCamp Intermediate Algorithms
 
-**Thoughts** 
+**Thoughts** I slightly polished and submitted my local weather app to FreeCodeCamp, and moved on to the Intermediate Algorithms for a change of pace today. I posed the question on Twitter as to what point when you're trying to learn do you stop polishing a project in order to move to something new. My weather app, meets all the technical specification, but it definitely needs some more polish, but I could spend a lot of time doing that to not much affect, or I could move ahead and learn some more, and come back to that project and add to it.
+
+Also, I am shopping for some new web hosting as my free hosting is expiring in the next few months, and I would like to set-up a professional web front-end. I'm also studying for a couple of IT certifications so I can have multiple skills to start a side-hustle, and hopefully grow it into something full time doing some developing, computer repair and consultation. To that end, I am studying for the CompTIA A+ and Network+ certifications and reading on content management systems, especially Drupal.
 
 **Link(s) to work and references**
+1. [Your Local Weather](https://codepen.io/zsanderford/full/MJbova/)
+2. [FreeCodeCamp Camper Page](https://www.freecodecamp.com/zaksanderford)
