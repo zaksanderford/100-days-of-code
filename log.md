@@ -187,3 +187,12 @@ Also, I am shopping for some new web hosting as my free hosting is expiring in t
 **Link(s) to work and references**
 1. [Your Local Weather](https://codepen.io/zsanderford/full/MJbova/)
 2. [FreeCodeCamp Camper Page](https://www.freecodecamp.com/zaksanderford)
+
+### Day 16: 21-Jan-2017
+
+**Today's Progress**: Continued FreeCodeCamp Intermediate Algorithms
+
+**Thoughts** I continued working a FreeCodeCamp Intermediate Algorithm exercise. I took a break yesterday to spend time with my family on a fun Friday everning.
+
+**Link(s) to work and references**
+2. [FreeCodeCamp Camper Page](https://www.freecodecamp.com/zaksanderford)
