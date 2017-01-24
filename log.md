@@ -195,4 +195,25 @@ Also, I am shopping for some new web hosting as my free hosting is expiring in t
 **Thoughts** I continued working a FreeCodeCamp Intermediate Algorithm exercise. I took a break yesterday to spend time with my family on a fun Friday everning.
 
 **Link(s) to work and references**
-2. [FreeCodeCamp Camper Page](https://www.freecodecamp.com/zaksanderford)
+1. [FreeCodeCamp Camper Page](https://www.freecodecamp.com/zaksanderford)
+
+### Day 17: 22-Jan-2017
+
+**Today's Progress**: Continued FreeCodeCamp Intermediate Algorithms, Began Reading about React JS.
+
+**Thoughts** I completed the Arabic to Roman numeral conversion today, and begin to read about React JS. I started listening to the [Start Here Web Dev](http://starthere.fm/category/webdev) podcast, and I'm going to try their advice of learning a framework rather than a language, in addition to working on making algorithms work.
+
+**Link(s) to work and references**
+1. [FreeCodeCamp Camper Page](https://www.freecodecamp.com/zaksanderford)
+2. [StartHere.fm](http://starthere.fm)
+3. [React JS](https://facebook.github.io/react/)
+
+### Day 18: 23-Jan-2017
+
+**Today's Progress**: Started a React JS tutorial, continued reading about React.
+
+**Thoughts** I started on the [React JS tutorial](https://facebook.github.io/react/) but I had to leave before I could finish. At that point I had done something in the code that made [Codepen](https://www.codepen.com/) like up like the USS Enterprise under attack by the Klingons. I plan to hit that again tomorrow and see if I can make it work. In this exercise, I've discovered that when I'm learning, I'd pretty much like to start from 0 code so I can see how the pieces work indvidually, as well as in concert.
+
+**Link(s) to work and references**
+1. [FreeCodeCamp Camper Page](https://www.freecodecamp.com/zaksanderford)
+2. [React JS](https://facebook.github.io/react/)
