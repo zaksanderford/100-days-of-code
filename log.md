@@ -1,5 +1,3 @@
-
-
 # 100 Days Of Code - Log
 
 I've been working on the FreeCodeCamp curriculum since I caught wind of this challenge, but I will start couting today (5-Jan-17) as day 1.
@@ -217,3 +215,15 @@ Also, I am shopping for some new web hosting as my free hosting is expiring in t
 **Link(s) to work and references**
 1. [FreeCodeCamp Camper Page](https://www.freecodecamp.com/zaksanderford)
 2. [React JS](https://facebook.github.io/react/)
+
+### Day 19-20: 25-26-Jan-2017
+
+**Today's Progress**: Working on Code School Shaping Up with Angular JS Course Levels 1 - 4
+
+**Thoughts** I switched from learning React to Angular as React was warping my brain in ways that I didn't know it could be warped. On the whole, I find Angular to be a little more syntacticaly straight forward. React definitely seems interesting, but the syntax and structure is a little strange and hard to comprehend, which was a little off putting and in order to remain engaged in this activity, I switched to Angular, and I can definitely see how it can be applied to some projects I would like to start.
+
+I am considering subscribing to the Code School service for a few months and really power through some of their courses. The courses I have done so far have been very well organized and produced.
+
+**Link(s) to work and references**
+1. [Angular JS Home Page](https://angularjs.org/)
+2. [Code School Angular](https://www.codeschool.com/pages/angular-1-vs-2)
